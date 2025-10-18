@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hades II Keepsake Checklist</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Inter:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="page-header">
+      <h1>Hades II Keepsake Checklist</h1>
+      <p>
+        Tap a god's card when you've received their keepsake. Your progress is stored
+        in a browser cookie so you can self-host and track your collection.
+      </p>
+      <div class="header-actions">
+        <button class="action-button" id="reset-progress" type="button">
+          Reset Progress
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section>
+        <h2>Olympians</h2>
+        <div class="card-grid" id="olympian-grid"></div>
+      </section>
+      <section>
+        <h2>Chthonic &amp; Allies</h2>
+        <div class="card-grid" id="chthonic-grid"></div>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <p>
+        Data based on the Hades II Early Access roster. Portraits pulled from the
+        <a href="https://hades.fandom.com/wiki/Keepsakes/Hades_II" target="_blank" rel="noreferrer">Hades Wiki keepsake</a>
+        and
+        <a href="https://hades.fandom.com/wiki/Hades_II#Characters" target="_blank" rel="noreferrer">character</a>
+        pages.
+      </p>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
