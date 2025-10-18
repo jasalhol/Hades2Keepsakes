@@ -13,7 +13,7 @@ Each god is shown as a card you can click to mark as collected. Progress is save
 [🔗 View Page](https://jasalhol.github.io/Hades2Keepsakes/)
 
 ## Preview
-![App Preview] <video src="preview/preview.webm" width="600" autoplay loop muted playsinline></video>
+ <img src="preview/card.webp">
 
 ## Usage
 1. Use the Github hosted page
