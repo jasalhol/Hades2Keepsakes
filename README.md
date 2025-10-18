@@ -9,9 +9,22 @@ Each god is shown as a card you can click to mark as collected. Progress is save
 - Progress auto-saves in browser cookies  
 - Fully offline and self-hostable
 
+## Use now
+[🔗 View Page](https://jasalhol.github.io/Hades2Keepsakes/)
+
+*(Replace the link above with your hosted version if available.)*
+
+## Preview
+![App Preview](preview/preview.webm)
+
 ## Usage
-1. Clone this repository  
-2. Open `index.html` in your browser or host it on any static server  
+1. Use the Github hosted page
+2. Click on a god’s keepsake card to mark it as collected  
+3. Your progress stays saved automatically
+
+##If wanting offline mode
+1. Clone the project
+2. Open index.html on any browser
 3. Click on a god’s keepsake card to mark it as collected  
 4. Your progress stays saved automatically
 
