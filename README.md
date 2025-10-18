@@ -12,8 +12,6 @@ Each god is shown as a card you can click to mark as collected. Progress is save
 ## Use now
 [🔗 View Page](https://jasalhol.github.io/Hades2Keepsakes/)
 
-*(Replace the link above with your hosted version if available.)*
-
 ## Preview
 ![App Preview](preview/preview.webm)
 
